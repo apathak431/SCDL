@@ -437,7 +437,7 @@ const [data, setData] = useState([
               ],
             },
             curriculum:
-              "http://www.scdl.net/pdf/curriculumPDF/CCAWSSAA.pdf#toolbar=0&navpanes=0&scrollbar=0",
+              "http://www.scdl.net/pdf/curriculumPDF/SC2020.pdf#toolbar=0&navpanes=0&scrollbar=0",
           },
           ],
     },
